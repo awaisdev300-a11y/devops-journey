@@ -1,0 +1,5 @@
+# Directory where backup archives will be stored
+BACKUP_DIR="$HOME/backups"
+
+# Retain backup archives according to this age in days
+KEEP_DAYS=7
